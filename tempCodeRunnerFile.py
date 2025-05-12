@@ -1,0 +1,1 @@
+self.image_box.delete("emoji")
