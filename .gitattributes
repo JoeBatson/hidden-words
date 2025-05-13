@@ -2,3 +2,11 @@
 *.py linguist-language=Python
 *.tex linguist-detectable=false
 *.md linguist-detectable=false
+*.toc linguist-detectable=false
+*.zip linguist-detectable=false
+.spec linguist-detectable=false
+.*spec linguist-detectable=false
+*.spec linguist-detectable=false
+*.ico linguist-detectable=false
+*.png linguist-detectable=false
+*.txt linguist-detectable=false
