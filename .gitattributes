@@ -1,3 +1,4 @@
 *.html linguist-detectable=false
 *.py linguist-language=Python
 *.tex linguist-detectable=false
+*.md linguist-detectable=false
