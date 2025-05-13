@@ -3,3 +3,8 @@ __pycache__/
 dist/
 build/
 *.spec
+*.pyo
+*.log
+*.toc
+*.pyz
+*.exe
